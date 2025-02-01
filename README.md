@@ -7,6 +7,7 @@ Anyone is free to access the files stored on MLDb, but edit access is restricted
 Upload your files in .json format to the Mod Localization folder:
 - Use the same naming format each time (e.g. OXA_EN.json or MutantLoot_UA.json)
 - Only keep the latest version of your localization in the Mod Localization folder
+- Do not upload merged localization files - each entry should be unique to your mod
 - Do not overwrite vanilla localization
 
 ## Creating Localization Files
@@ -19,7 +20,7 @@ Upload your files in .json format to the Mod Localization folder:
 6. Go to the Packer tab, click 'Pack', and add the contents of your Merged folder
 7. Your finished localization will be in ModOutput/Pak
 
-If you require a version without Real Weapon Names, you can use the files in Vanilla Localization rather than those in Base Localization.
+If you are familiar with GitHub, you can clone the repository to skip downloading the files seperately.
 
 ## Naming Localization Files
 
@@ -29,8 +30,11 @@ In order to ensure users know which localization file is the most up to date, us
   - \<MM> is the month
   - \<DD> is the day
 
-e.g. MLDb_Localization_0131 would be localization created on Jan' 31
-Use the prefix MLDb_Vanilla_ if you aren't using Real Weapon Names.
+e.g. MLDb_Localization_0131 would be localization created on Jan' 31.
+
+## Vanilla Localization
+
+Due to it's popularity, Base Localization is set to use Real Weapon Names Global by default; if you require vanilla localization, use the .json files in the Vanilla Localization folder instead of those in the Base Localization folder. When naming your files, use the prefix MLDb_Vanilla_ to avoid confusion.
 
 ## Uploading Localization Files
 
