@@ -7,6 +7,7 @@ Anyone is free to access the files stored on MLDb, but edit access is restricted
 Upload your files in .json format to the Mod Localization folder:
 - Use the same naming format each time (e.g. OXA_EN.json or MutantLoot_UA.json)
 - Only keep the latest version of your localization in the Mod Localization folder
+- Do not upload merged localization files - each entry should be unique to your mod
 - Do not overwrite vanilla localization
 
 ## Creating Localization Files
