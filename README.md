@@ -19,6 +19,8 @@ Upload your files in .json format to the Mod Localization folder:
 6. Go to the Packer tab, click 'Pack', and add the contents of your Merged folder
 7. Your finished localization will be in ModOutput/Pak
 
+If you are familiar with GitHub, you can clone the repository to skip downloading the files seperately.
+
 If you require a version without Real Weapon Names, you can use the files in Vanilla Localization rather than those in Base Localization.
 
 ## Naming Localization Files
