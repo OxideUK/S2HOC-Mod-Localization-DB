@@ -24,13 +24,13 @@ If you are familiar with GitHub, you can clone the repository to skip downloadin
 
 ## Naming Localization Files
 
-In order to ensure users know which localization file is the most up to date, use the following naming convention:
+In order to ensure users know which localization file is the most up to date, use the following naming convention on all 3 files:
 
-  MLDb_Localization_\<MM>\<DD>\.pak
+  MLDb_Localization_\<MM>\<DD>\_P.pak
   - \<MM> is the month
   - \<DD> is the day
 
-e.g. MLDb_Localization_0131 would be localization created on Jan' 31.
+e.g. MLDb_Localization_0131_P would be localization created on Jan' 31.
 
 ## Vanilla Localization
 
