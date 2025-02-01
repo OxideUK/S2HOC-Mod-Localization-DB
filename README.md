@@ -1,8 +1,38 @@
 # Stalker 2 Mod Localization Database
 
-Localization is a frustrating part of any mod due to the fact that only a single Localization can be active at a time. Attempts to maintain a centralized localization file are difficult, and require one unfortunate individual collect and compile a growing list of localizations on an almost daily basis. S2MLDB is (yet another) attempt to get a handle on localization, but what sets it apart?
+Anyone is free to access the files stored on MLDb, but edit access is restricted to active modders - Get in touch if you would like access
 
-- Realtime Updates - Modders can update their localization files whenever they want, so no more waiting for an individual to find the time to add new files after each update.
-- Collaborative Translation - Whilst AI tools can make translation easier, they're far from perfect. Users can suggest revisions to translations for the mod creator to review and include.
-- Pre-packed Localization - Assembled localization files will be made available on a regular basis; with multiple modders having access, users won't have to wait long for updated files.
-- Raw JSON Access - Users can download any combination of localization files they want and easily compile them.
+## Uploading Localization Files
+
+Upload your files in .json format to the Mod Localization folder:
+- Use the same naming format each time (e.g. OXA_EN.json or MutantLoot_UA.json)
+- Only keep the latest version of your localization in the Mod Localization folder
+- Do not overwrite vanilla localization
+
+## Creating Localization Files
+
+1. Download S2HOC Multi Localization Utility (S2HOCMM) and extract it - https://www.nexusmods.com/stalker2heartofchornobyl/mods/540
+2. Download the contents of Base Localization to your S2HOCMM/JSONs folder
+3. Download the contents of Mod Localization to the same folder
+4. Launch S2HOCMM and go to the Localization Merger tab
+5. Click 'Add', add all of the files in the JSONs folder, then click 'Merge'
+6. Go to the Packer tab, click 'Pack', and add the contents of your Merged folder
+7. Your finished localization will be in ModOutput/Pak
+
+If you require a version without Real Weapon Names, you can use the files in Vanilla Localization rather than those in Base Localization.
+
+## Naming Localization Files
+
+In order to ensure users know which localization file is the most up to date, use the following naming convention:
+
+  MLDb_Localization_\<MM>\<DD>\.pak
+  - \<MM> is the month
+  - \<DD> is the day
+
+e.g. MLDb_Localization_0131 would be localization created on Jan' 31
+Use the prefix MLDb_Vanilla_ if you aren't using Real Weapon Names.
+
+## Uploading Localization Files
+
+Once you've completed packing and renaming your localization, you can include it in your mod and upload it to the Pre-Packaged Localization folder. 
+It is recommended that you keep the same naming convention when adding localization to your mod; this naming system ensures that the most recently produced localization will be loaded, regardless of how many the user may have in their mods folder.
