@@ -1,6 +1,5 @@
 {
   "__LANG": "TR",
-  "__MODINFO_OXA": "1.8",
   "sid_items_IronsightEnabler_name": "Demir Nişangahlar",
   "sid_items_IronsightEnabler_description": "Yana monteli rayı devre dışı bırakarak bir silahın demir nişangahlarının engelsiz kullanımına izin verir.",
   "sid_items_MagpulIronsightEnabler_name": "Magpul Demir Dürbünler",
@@ -92,5 +91,13 @@
   "sid_upgrades_OXA_Upgrade_Attachment_Laser_name": "Lazer Montaj Rayı",
   "sid_upgrades_OXA_Upgrade_Attachment_Laser_description": "Lazer ataşmanlarının kullanımına izin veren bir montaj rayı",
   "sid_upgrades_OXA_Upgrade_Attachment_Dual_name": "Çift Montaj Rayı",
-  "sid_upgrades_OXA_Upgrade_Attachment_Dual_description": "Lazer ve el kundağı eklentilerinin kullanımına izin veren bir montaj rayı"
+  "sid_upgrades_OXA_Upgrade_Attachment_Dual_description": "Lazer ve el kundağı eklentilerinin kullanımına izin veren bir montaj rayı",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripLaser_name": "Çift Montaj Rayı",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripLaser_description": "Çok yönlü bir bağlantı sistemi. Çift raylı tasarımı, hem lazer hem de el kundağı bağlantılarının aynı anda monte edilmesini sağlar.",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripUGL_name": "Kavrama/UGL Montaj Rayı",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripUGL_description": "El kundağının altında bulunan yardımcı bir montaj rayı. El kundağı veya namlu altı eklentilerinin kullanımına izin verir",
+  "sid_items_SOFMOD_Silen_name": "SOFMOD Bastırıcı",
+  "sid_items_SOFMOD_Silen_description": "Silah gürültüsünü ve namlu flaşını azaltmak için tasarlanmış yüksek kaliteli bir susturucu, gizli operasyonlar için idealdir. Gelişmiş bölme sistemi, mermi hızını önemli ölçüde etkilemeden sesi etkili bir şekilde azaltır.",
+  "sid_items_M701_Colim_Scope_name": "Kolimatör Görüşü",
+  "sid_items_M701_Colim_Scope_description": "Nişan almayı kolaylaştırmak için tasarlanan bu kompakt ve modern kolimatör dürbün, uygun raya monte edilmek üzere tasarlanmıştır."
 }

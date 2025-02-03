@@ -1,6 +1,5 @@
 {
   "__LANG": "IT",
-  "__MODINFO_OXA": "1.8",
   "sid_items_IronsightEnabler_name": "Mirino di ferro",
   "sid_items_IronsightEnabler_description": "Disabilita la guida laterale, consentendo di utilizzare senza problemi i mirini di ferro dell'arma.",
   "sid_items_MagpulIronsightEnabler_name": "Mirino Magpul",
@@ -92,5 +91,13 @@
   "sid_upgrades_OXA_Upgrade_Attachment_Laser_name": "Guida di montaggio laser",
   "sid_upgrades_OXA_Upgrade_Attachment_Laser_description": "Una guida di montaggio che consente l'utilizzo di attacchi laser",
   "sid_upgrades_OXA_Upgrade_Attachment_Dual_name": "Guida di montaggio doppia",
-  "sid_upgrades_OXA_Upgrade_Attachment_Dual_description": "Una guida di montaggio che consente l'utilizzo di attacchi per laser e foregrip"
+  "sid_upgrades_OXA_Upgrade_Attachment_Dual_description": "Una guida di montaggio che consente l'utilizzo di attacchi per laser e foregrip",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripLaser_name": "Guida di montaggio doppia",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripLaser_description": "Un sistema di attacco versatile. Il design a doppia guida consente il montaggio simultaneo di attacchi laser e foregrip.",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripUGL_name": "Guida di montaggio Grip/UGL",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripUGL_description": "Una guida di montaggio ausiliaria situata sotto il paramano. Consente l'uso di impugnature di prua o attacchi sottocanna.",
+  "sid_items_SOFMOD_Silen_name": "SOFMOD Suppressor",
+  "sid_items_SOFMOD_Silen_description": "Un soppressore di alta qualità progettato per ridurre il rumore dell'arma e il flash della volata, ideale per le operazioni stealth. Il suo avanzato sistema di deflettori smorza efficacemente il suono senza influire in modo significativo sulla velocità dei proiettili.",
+  "sid_items_M701_Colim_Scope_name": "Mirino del collimatore",
+  "sid_items_M701_Colim_Scope_description": "Progettato per facilitare il puntamento, questo mirino a collimatore compatto e moderno è pensato per essere montato sull'apposita guida."
 }

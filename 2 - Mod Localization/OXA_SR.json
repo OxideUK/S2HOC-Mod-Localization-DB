@@ -1,6 +1,5 @@
 {
   "__LANG": "SR",
-  "__MODINFO_OXA": "1.8",
   "sid_items_IronsightEnabler_name": "Železna merila",
   "sid_items_IronsightEnabler_description": "Onemogoči stransko tirnico, kar omogoča neovirano uporabo železnih merilnih naprav na orožju.",
   "sid_items_MagpulIronsightEnabler_name": "Magpul Iron Sights",
@@ -92,5 +91,13 @@
   "sid_upgrades_OXA_Upgrade_Attachment_Laser_name": "Tirnica za pritrditev laserja",
   "sid_upgrades_OXA_Upgrade_Attachment_Laser_description": "Montažno vodilo, ki omogoča uporabo laserskih nastavkov",
   "sid_upgrades_OXA_Upgrade_Attachment_Dual_name": "Dvojno pritrdilno vodilo",
-  "sid_upgrades_OXA_Upgrade_Attachment_Dual_description": "Montažno vodilo, ki omogoča uporabo laserskih nastavkov in nastavkov za prednjo roko"
+  "sid_upgrades_OXA_Upgrade_Attachment_Dual_description": "Montažno vodilo, ki omogoča uporabo laserskih nastavkov in nastavkov za prednjo roko",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripLaser_name": "Dvojno pritrdilno vodilo",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripLaser_description": "Vsestranski sistem pritrditve. Njegova zasnova z dvema tirnicama omogoča hkratno namestitev laserskih nastavkov in nastavkov za prednjo roko.",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripUGL_name": "Nosilec za pritrditev Grip/UGL",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripUGL_description": "Pomožna pritrdilna letev pod oklepom. Omogoča uporabo prednjih ročajev ali nastavkov pod cevjo.",
+  "sid_items_SOFMOD_Silen_name": "Dušilnik SOFMOD",
+  "sid_items_SOFMOD_Silen_description": "Visokokakovostni dušilec, zasnovan za zmanjšanje hrupa orožja in bliskavice, zato je idealen za prikrite operacije. Njegov napredni sistem pregrad učinkovito duši zvok, ne da bi bistveno vplival na hitrost krogle.",
+  "sid_items_M701_Colim_Scope_name": "Kolimatorski pogled",
+  "sid_items_M701_Colim_Scope_description": "Ta kompakten in sodoben kolimatorski namerilni aparat je zasnovan za lažje merjenje in ga je treba namestiti na ustrezno tirnico."
 }

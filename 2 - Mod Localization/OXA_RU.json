@@ -1,10 +1,9 @@
 {
-  "__LANG": "RU",		 
-  "__MODINFO_OXA": "1.8",
+  "__LANG": "RU",
   "sid_items_IronsightEnabler_name": "Железные прицелы",
   "sid_items_IronsightEnabler_description": "Отключает боковую планку, позволяя беспрепятственно использовать прицельные приспособления.",
   "sid_items_MagpulIronsightEnabler_name": "Железные прицелы Magpul",
-  "sid_items_MagpulIronsightEnabler_description": "Комплект откидных прицельных приспособлений в сложенном состоянии; предназначен для использования в качестве запасного варианта в случае отказа оптики.",																																																	
+  "sid_items_MagpulIronsightEnabler_description": "Комплект откидных прицельных приспособлений в сложенном состоянии; предназначен для использования в качестве запасного варианта в случае отказа оптики.",
   "sid_items_EN_Silen_3Alt_name": "Тактический глушитель для штурмовой винтовки",
   "sid_items_EN_Silen_3Alt_description": "Подавляет взрыв, возникающий при стрельбе из некоторых штурмовых винтовок НАТО, снижая вероятность обнаружения.",
   "sid_items_RU_Silen_2Alt_name": "Подавитель для АК",
@@ -18,7 +17,7 @@
   "sid_items_OXA_X2Scope_1_name": "Aimpoint Comp M4s",
   "sid_items_OXA_X2Scope_1_description": "Популярный коллиматорный прицел с красной точкой и стандартным креплением QRP2. Отсутствие кратности делает его хорошим выбором в ближнем бою.",
   "sid_items_OXA_ENX2Scope_name": "VISM ECO 2x",
-  "sid_items_OXA_ENX2Scope_description": "Специализированный прицел, предназначенный для штурмовых операций в городских условиях.",																																				
+  "sid_items_OXA_ENX2Scope_description": "Специализированный прицел, предназначенный для штурмовых операций в городских условиях.",
   "sid_items_OXA_RUX2Scope_name": "Aimpoint PRO IX2",
   "sid_items_OXA_RUX2Scope_description": "Созданный на базе легендарного Aimpoint PRO, прицел IX2 оснащен встроенным 2-кратным увеличителем для улучшения показателей на дальних дистанциях.",
   "sid_items_OXA_ENX4Scope_name": "Триджикон ACOG 4x32",
@@ -92,5 +91,13 @@
   "sid_upgrades_OXA_Upgrade_Attachment_Laser_name": "Монтажная рейка для лазера",
   "sid_upgrades_OXA_Upgrade_Attachment_Laser_description": "Монтажная рейка, позволяющая использовать лазерные насадки",
   "sid_upgrades_OXA_Upgrade_Attachment_Dual_name": "Двойная монтажная шина",
-  "sid_upgrades_OXA_Upgrade_Attachment_Dual_description": "Крепежная планка, позволяющая использовать лазеры и насадки на цевье"
-} 
+  "sid_upgrades_OXA_Upgrade_Attachment_Dual_description": "Крепежная планка, позволяющая использовать лазеры и насадки на цевье",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripLaser_name": "Двойная монтажная шина",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripLaser_description": "Универсальная система крепления. Конструкция с двумя направляющими позволяет одновременно устанавливать как лазер, так и насадку на цевье.",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripUGL_name": "Монтажная шина для рукоятки/UGL",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripUGL_description": "Дополнительная монтажная планка, расположенная под гардой. Позволяет использовать рукоятки или подствольные приспособления.",
+  "sid_items_SOFMOD_Silen_name": "Подавитель SOFMOD",
+  "sid_items_SOFMOD_Silen_description": "Высококачественный подавитель, предназначенный для снижения уровня шума оружия и дульной вспышки, что делает его идеальным для скрытных операций. Его усовершенствованная система перегородок эффективно гасит звук, не оказывая существенного влияния на скорость пули.",
+  "sid_items_M701_Colim_Scope_name": "Коллиматорный прицел",
+  "sid_items_M701_Colim_Scope_description": "Этот компактный и современный коллиматорный прицел, разработанный для удобства прицеливания, предназначен для установки на соответствующую планку."
+}

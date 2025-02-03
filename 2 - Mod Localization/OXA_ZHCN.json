@@ -1,6 +1,5 @@
 {
   "__LANG": "ZHCN",
-  "__MODINFO_OXA": "1.8",
   "sid_items_IronsightEnabler_name": "铁瞄准镜",
   "sid_items_IronsightEnabler_description": "禁用侧装导轨，使武器的铁制瞄准镜不受阻碍地使用。",
   "sid_items_MagpulIronsightEnabler_name": "Magpul 铁瞄准镜",
@@ -92,5 +91,13 @@
   "sid_upgrades_OXA_Upgrade_Attachment_Laser_name": "激光安装导轨",
   "sid_upgrades_OXA_Upgrade_Attachment_Laser_description": "可使用激光附件的安装轨道",
   "sid_upgrades_OXA_Upgrade_Attachment_Dual_name": "双安装导轨",
-  "sid_upgrades_OXA_Upgrade_Attachment_Dual_description": "安装导轨可使用激光和前握把附件"
+  "sid_upgrades_OXA_Upgrade_Attachment_Dual_description": "安装导轨可使用激光和前握把附件",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripLaser_name": "双安装导轨",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripLaser_description": "多功能附件系统。其双导轨设计可同时安装激光和前握把附件。",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripUGL_name": "握把/UGL 安装导轨",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripUGL_description": "位于护手下方的辅助安装导轨。允许使用前握把或枪管下附件",
+  "sid_items_SOFMOD_Silen_name": "SOFMOD 消音器",
+  "sid_items_SOFMOD_Silen_description": "这是一款高品质的抑制器，旨在降低武器噪音和枪口闪光，是隐形作战的理想选择。其先进的障板系统可有效抑制声音，而不会对子弹速度产生明显影响。",
+  "sid_items_M701_Colim_Scope_name": "瞄准镜",
+  "sid_items_M701_Colim_Scope_description": "这款结构紧凑的现代准直瞄准镜可安装在适当的导轨上，便于瞄准。"
 }

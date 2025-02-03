@@ -1,4 +1,5 @@
 {
+  "__LANG": "EN",
   "sid_questItemprototypes_DSBrokenSmartphone_name": "Broken Smartphone ",
   "sid_questItemprototypes_DSBrokenSmartphone_description": "Once functioning smartphone, now destroyed by the hostile environment of the Zone. Though little to no information can be recovered from it at this point, some technicians can still buy it for a cheap way to get a few intact spare parts.  ",
   "sid_questItemprototypes_DSBatteriesUsed_name": "Used Batteries ",
@@ -513,5 +514,5 @@
   "sid_items_DSBackpackOxygenTanks_description": "A set of compressed air cylinders mounted on a backpack frame, designed to provide breathable oxygen in hazardous environments. Used primarily by stalkers venturing into toxic zones, underground tunnels, or areas with dangerously low oxygen levels. While they significantly improve survival chances in such conditions, their weight and bulk make movement more cumbersome. Essential for deep dives into the most inhospitable parts of the Zone.",
   "sid_items_DSBackpackTracker_name": "Tracker Backpack",
   "sid_items_DSBackpackTracker_description": "A well-designed backpack favored by experienced stalkers who prioritize both capacity and comfort. The Tracker features an ergonomic frame, padded straps, and a balanced weight distribution system, making it one of the most comfortable options for long excursions. Despite its large storage space, it does not significantly hinder movement, making it an ideal choice for those who need to carry heavy loads without feeling burdened.",
-  "sid_effects_DSUnequipBackpack_name": "Unequip current backpack",
+  "sid_effects_DSUnequipBackpack_name": "Unequip current backpack"
 }

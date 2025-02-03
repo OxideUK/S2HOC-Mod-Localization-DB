@@ -1,6 +1,5 @@
 {
   "__LANG": "KO",
-  "__MODINFO_OXA": "1.8",
   "sid_items_IronsightEnabler_name": "아이언 사이트",
   "sid_items_IronsightEnabler_description": "측면 장착 레일을 비활성화하여 무기의 철제 조준경을 방해받지 않고 사용할 수 있습니다.",
   "sid_items_MagpulIronsightEnabler_name": "매그펄 아이언 사이트",
@@ -92,5 +91,13 @@
   "sid_upgrades_OXA_Upgrade_Attachment_Laser_name": "레이저 마운팅 레일",
   "sid_upgrades_OXA_Upgrade_Attachment_Laser_description": "레이저 어태치먼트를 사용할 수 있는 마운팅 레일",
   "sid_upgrades_OXA_Upgrade_Attachment_Dual_name": "듀얼 마운팅 레일",
-  "sid_upgrades_OXA_Upgrade_Attachment_Dual_description": "레이저 및 포그립 어태치먼트를 사용할 수 있는 마운팅 레일"
+  "sid_upgrades_OXA_Upgrade_Attachment_Dual_description": "레이저 및 포그립 어태치먼트를 사용할 수 있는 마운팅 레일",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripLaser_name": "듀얼 마운팅 레일",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripLaser_description": "다용도 어태치먼트 시스템. 듀얼 레일 디자인으로 레이저와 포그립 어태치먼트를 동시에 장착할 수 있습니다.",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripUGL_name": "그립/UGL 마운팅 레일",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripUGL_description": "핸드가드 아래에 위치한 보조 마운팅 레일입니다. 포그립 또는 언더배럴 어태치먼트 사용 가능",
+  "sid_items_SOFMOD_Silen_name": "SOFMOD 서프레서",
+  "sid_items_SOFMOD_Silen_description": "무기 소음과 총구 섬광을 줄이도록 설계된 고품질 서프레서로 스텔스 작전에 이상적입니다. 고급 배플 시스템은 총알 속도에 큰 영향을 주지 않으면서 효과적으로 소음을 감쇠합니다.",
+  "sid_items_M701_Colim_Scope_name": "콜리메이터 사이트",
+  "sid_items_M701_Colim_Scope_description": "조준이 용이하도록 설계된 이 컴팩트하고 현대적인 조준기 조준경은 적절한 레일에 장착할 수 있습니다."
 }

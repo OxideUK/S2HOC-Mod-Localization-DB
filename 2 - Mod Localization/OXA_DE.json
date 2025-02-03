@@ -1,6 +1,5 @@
 {
   "__LANG": "DE",
-  "__MODINFO_OXA": "1.8",
   "sid_items_IronsightEnabler_name": "Eiserne Visiere",
   "sid_items_IronsightEnabler_description": "Deaktiviert die seitlich montierte Schiene und ermöglicht so die ungehinderte Verwendung der eisernen Visiereinrichtung einer Waffe.",
   "sid_items_MagpulIronsightEnabler_name": "Magpul Iron Sights",
@@ -92,5 +91,13 @@
   "sid_upgrades_OXA_Upgrade_Attachment_Laser_name": "Laser-Montageschiene",
   "sid_upgrades_OXA_Upgrade_Attachment_Laser_description": "Eine Montageschiene, die die Verwendung von Laseraufsätzen ermöglicht",
   "sid_upgrades_OXA_Upgrade_Attachment_Dual_name": "Duale Montageschiene",
-  "sid_upgrades_OXA_Upgrade_Attachment_Dual_description": "Eine Montageschiene, die die Verwendung von Laser- und Vordergriffbefestigungen ermöglicht"
+  "sid_upgrades_OXA_Upgrade_Attachment_Dual_description": "Eine Montageschiene, die die Verwendung von Laser- und Vordergriffbefestigungen ermöglicht",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripLaser_name": "Duale Montageschiene",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripLaser_description": "Ein vielseitiges Befestigungssystem. Das Dual-Rail-Design ermöglicht die gleichzeitige Montage von Laser- und Vordergriffbefestigungen.",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripUGL_name": "Grip/UGL-Montageschiene",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripUGL_description": "Eine zusätzliche Montageschiene, die sich unter dem Handschutz befindet. Ermöglicht die Verwendung von Vordergriffen oder Unterlaufbefestigungen",
+  "sid_items_SOFMOD_Silen_name": "SOFMOD Unterdrücker",
+  "sid_items_SOFMOD_Silen_description": "Ein hochwertiger Schalldämpfer zur Reduzierung von Waffenlärm und Mündungsfeuer, ideal für verdeckte Einsätze. Sein fortschrittliches Schalldämpfersystem dämpft den Schall effektiv, ohne die Geschossgeschwindigkeit wesentlich zu beeinträchtigen.",
+  "sid_items_M701_Colim_Scope_name": "Kollimator-Visier",
+  "sid_items_M701_Colim_Scope_description": "Dieses kompakte und moderne Kollimatorvisier wurde für eine einfache Zielerfassung entwickelt und ist für die Montage auf der entsprechenden Schiene vorgesehen."
 }

@@ -1,6 +1,5 @@
 {
   "__LANG": "JA",
-  "__MODINFO_OXA": "1.8",
   "sid_items_IronsightEnabler_name": "アイアンサイト",
   "sid_items_IronsightEnabler_description": "サイドマウントレールを無効にし、アイアンサイトを使用できるようにする。",
   "sid_items_MagpulIronsightEnabler_name": "マグプル・アイアンサイト",
@@ -92,5 +91,13 @@
   "sid_upgrades_OXA_Upgrade_Attachment_Laser_name": "レーザー取付レール",
   "sid_upgrades_OXA_Upgrade_Attachment_Laser_description": "レーザーアタッチメントの使用を可能にするマウントレール",
   "sid_upgrades_OXA_Upgrade_Attachment_Dual_name": "デュアルマウントレール",
-  "sid_upgrades_OXA_Upgrade_Attachment_Dual_description": "レーザーとフォアグリップのアタッチメントを使用できるマウントレール"
+  "sid_upgrades_OXA_Upgrade_Attachment_Dual_description": "レーザーとフォアグリップのアタッチメントを使用できるマウントレール",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripLaser_name": "デュアルマウントレール",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripLaser_description": "汎用性の高いアタッチメントシステム。デュアルレール設計により、レーザーとフォアグリップのアタッチメントを同時に装着可能。",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripUGL_name": "グリップ/UGL取り付けレール",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripUGL_description": "ハンドガードの下に位置する補助マウントレール。フォアグリップやアンダーバレルアタッチメントの使用を可能にする。",
+  "sid_items_SOFMOD_Silen_name": "SOFMODサプレッサー",
+  "sid_items_SOFMOD_Silen_description": "武器のノイズとマズルフラッシュを低減するよう設計された高品質のサプレッサーで、ステルス作戦に最適。高度なバッフルシステムにより、弾速に大きな影響を与えることなく効果的に音を減衰させます。",
+  "sid_items_M701_Colim_Scope_name": "コリメーターサイト",
+  "sid_items_M701_Colim_Scope_description": "照準を容易にするために設計された、コンパクトで近代的なコリメーターサイト。"
 }

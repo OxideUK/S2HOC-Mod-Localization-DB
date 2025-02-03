@@ -1,6 +1,5 @@
 {
   "__LANG": "FR",
-  "__MODINFO_OXA": "1.8",
   "sid_items_IronsightEnabler_name": "Mire en fer",
   "sid_items_IronsightEnabler_description": "Désactive le rail latéral, ce qui permet d'utiliser sans entrave la mire de l'arme.",
   "sid_items_MagpulIronsightEnabler_name": "Mires Magpul",
@@ -92,5 +91,13 @@
   "sid_upgrades_OXA_Upgrade_Attachment_Laser_name": "Rail de montage du laser",
   "sid_upgrades_OXA_Upgrade_Attachment_Laser_description": "Un rail de montage qui permet l'utilisation d'accessoires laser",
   "sid_upgrades_OXA_Upgrade_Attachment_Dual_name": "Rail de montage double",
-  "sid_upgrades_OXA_Upgrade_Attachment_Dual_description": "Un rail de montage qui permet l'utilisation d'un laser et d'une poignée avant."
+  "sid_upgrades_OXA_Upgrade_Attachment_Dual_description": "Un rail de montage qui permet l'utilisation d'un laser et d'une poignée avant.",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripLaser_name": "Rail de montage double",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripLaser_description": "Un système de fixation polyvalent. Sa conception à double rail permet le montage simultané d'un laser et d'une poignée avant.",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripUGL_name": "Rail de montage Grip/UGL",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripUGL_description": "Rail de montage auxiliaire situé sous le garde-main. Permet d'utiliser des poignées avant ou des fixations sous le canon.",
+  "sid_items_SOFMOD_Silen_name": "Suppresseur SOFMOD",
+  "sid_items_SOFMOD_Silen_description": "Un suppresseur de haute qualité conçu pour réduire le bruit de l'arme et l'éclair de bouche, ce qui le rend idéal pour les opérations furtives. Son système de baffles avancé atténue efficacement le bruit sans avoir d'impact significatif sur la vitesse des balles.",
+  "sid_items_M701_Colim_Scope_name": "Mire de collimateur",
+  "sid_items_M701_Colim_Scope_description": "Conçu pour faciliter la visée, ce collimateur compact et moderne est destiné à être monté sur le rail approprié."
 }

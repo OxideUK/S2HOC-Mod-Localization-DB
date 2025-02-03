@@ -1,6 +1,5 @@
 {
   "__LANG": "ZHTW",
-  "__MODINFO_OXA": "1.8",
   "sid_items_IronsightEnabler_name": "鐵瞄準鏡",
   "sid_items_IronsightEnabler_description": "停用側置軌道，讓您可以無障礙地使用武器的鐵瞄準鏡。",
   "sid_items_MagpulIronsightEnabler_name": "Magpul 鐵製瞄準鏡",
@@ -92,5 +91,11 @@
   "sid_upgrades_OXA_Upgrade_Attachment_Laser_name": "雷射安裝導軌",
   "sid_upgrades_OXA_Upgrade_Attachment_Laser_description": "可使用雷射附件的安裝導軌",
   "sid_upgrades_OXA_Upgrade_Attachment_Dual_name": "雙安裝軌道",
-  "sid_upgrades_OXA_Upgrade_Attachment_Dual_description": "可使用雷射和前握把附件的安裝導軌"
+  "sid_upgrades_OXA_Upgrade_Attachment_Dual_description": "可使用雷射和前握把附件的安裝導軌",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripUGL_name": "握把/UGL 安裝滑軌",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripUGL_description": "位於護木下方的輔助安裝軌道。允許使用前握把或槍管下附件",
+  "sid_items_SOFMOD_Silen_name": "SOFMOD 消音器",
+  "sid_items_SOFMOD_Silen_description": "專為降低武器噪音和槍口閃光而設計的高品質抑制器，是隱形作業的理想選擇。其先進的障板系統可有效抑制聲音，而不會顯著影響子彈速度。",
+  "sid_items_M701_Colim_Scope_name": "准直儀",
+  "sid_items_M701_Colim_Scope_description": "為了方便瞄準而設計，這款精巧且現代化的准直瞄準鏡可安裝在適當的軌道上。"
 }

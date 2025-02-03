@@ -1,6 +1,5 @@
 {
   "__LANG": "PL",
-  "__MODINFO_OXA": "1.8",
   "sid_items_IronsightEnabler_name": "Żelazne celowniki",
   "sid_items_IronsightEnabler_description": "Wyłącza boczną szynę montażową, umożliwiając swobodne korzystanie z żelaznych przyrządów celowniczych.",
   "sid_items_MagpulIronsightEnabler_name": "Żelazne celowniki Magpul",
@@ -92,5 +91,13 @@
   "sid_upgrades_OXA_Upgrade_Attachment_Laser_name": "Szyna montażowa lasera",
   "sid_upgrades_OXA_Upgrade_Attachment_Laser_description": "Szyna montażowa umożliwiająca korzystanie z przystawek laserowych",
   "sid_upgrades_OXA_Upgrade_Attachment_Dual_name": "Podwójna szyna montażowa",
-  "sid_upgrades_OXA_Upgrade_Attachment_Dual_description": "Szyna montażowa umożliwiająca korzystanie z lasera i uchwytów przednich"
+  "sid_upgrades_OXA_Upgrade_Attachment_Dual_description": "Szyna montażowa umożliwiająca korzystanie z lasera i uchwytów przednich",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripLaser_name": "Podwójna szyna montażowa",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripLaser_description": "Wszechstronny system mocowania. Konstrukcja z podwójną szyną pozwala na jednoczesny montaż zarówno lasera, jak i uchwytu przedniego.",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripUGL_name": "Szyna montażowa Grip/UGL",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripUGL_description": "Pomocnicza szyna montażowa umieszczona pod osłoną dłoni. Umożliwia korzystanie z uchwytów przednich lub mocowań pod lufą.",
+  "sid_items_SOFMOD_Silen_name": "Tłumik SOFMOD",
+  "sid_items_SOFMOD_Silen_description": "Wysokiej jakości tłumik zaprojektowany w celu zmniejszenia hałasu broni i błysku wylotowego, dzięki czemu idealnie nadaje się do ukrytych operacji. Zaawansowany system przegród skutecznie tłumi dźwięk bez znaczącego wpływu na prędkość pocisku.",
+  "sid_items_M701_Colim_Scope_name": "Celownik kolimatorowy",
+  "sid_items_M701_Colim_Scope_description": "Zaprojektowany z myślą o łatwym celowaniu, ten kompaktowy i nowoczesny celownik kolimatorowy jest przeznaczony do montażu na odpowiedniej szynie."
 }

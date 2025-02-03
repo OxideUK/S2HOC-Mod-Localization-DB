@@ -1,6 +1,5 @@
 {
   "__LANG": "PTBR",
-  "__MODINFO_OXA": "1.8",
   "sid_items_IronsightEnabler_name": "Miras de ferro",
   "sid_items_IronsightEnabler_description": "Desativa o trilho montado na lateral, permitindo o uso sem obstáculos da mira de ferro da arma.",
   "sid_items_MagpulIronsightEnabler_name": "Miras de ferro Magpul",
@@ -92,5 +91,13 @@
   "sid_upgrades_OXA_Upgrade_Attachment_Laser_name": "Trilho de montagem do laser",
   "sid_upgrades_OXA_Upgrade_Attachment_Laser_description": "Um trilho de montagem que permite o uso de acessórios de laser",
   "sid_upgrades_OXA_Upgrade_Attachment_Dual_name": "Trilho de montagem duplo",
-  "sid_upgrades_OXA_Upgrade_Attachment_Dual_description": "Um trilho de montagem que permite o uso de acessórios de laser e de empunhadura dianteira"
+  "sid_upgrades_OXA_Upgrade_Attachment_Dual_description": "Um trilho de montagem que permite o uso de acessórios de laser e de empunhadura dianteira",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripLaser_name": "Trilho de montagem duplo",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripLaser_description": "Um sistema de fixação versátil. Seu design de trilho duplo permite a montagem simultânea de acessórios para laser e para a empunhadura dianteira.",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripUGL_name": "Trilho de montagem Grip/UGL",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripUGL_description": "Um trilho de montagem auxiliar situado abaixo do protetor de mão. Permite o uso de foregrips ou acessórios sob o cano",
+  "sid_items_SOFMOD_Silen_name": "Supressor SOFMOD",
+  "sid_items_SOFMOD_Silen_description": "Um supressor de alta qualidade projetado para reduzir o ruído da arma e o flash do cano, tornando-o ideal para operações furtivas. Seu avançado sistema de defletores amortece efetivamente o som sem afetar significativamente a velocidade da bala.",
+  "sid_items_M701_Colim_Scope_name": "Visão do colimador",
+  "sid_items_M701_Colim_Scope_description": "Projetada para facilitar a mira, essa mira colimadora compacta e moderna foi projetada para ser montada no trilho apropriado."
 }

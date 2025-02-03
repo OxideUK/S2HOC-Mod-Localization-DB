@@ -1,6 +1,5 @@
 {
   "__LANG": "AR",
-  "__MODINFO_OXA": "1.8",
   "sid_items_IronsightEnabler_name": "مناظير حديدية",
   "sid_items_IronsightEnabler_description": "تعطيل السكة الحديدية المثبتة على الجانب، مما يسمح باستخدام المناظير الحديدية للسلاح دون عوائق.",
   "sid_items_MagpulIronsightEnabler_name": "مناظير ماغبول الحديدية",
@@ -92,5 +91,13 @@
   "sid_upgrades_OXA_Upgrade_Attachment_Laser_name": "سكة التثبيت بالليزر",
   "sid_upgrades_OXA_Upgrade_Attachment_Laser_description": "سكة تثبيت تسمح باستخدام ملحقات الليزر",
   "sid_upgrades_OXA_Upgrade_Attachment_Dual_name": "سكة التثبيت المزدوجة",
-  "sid_upgrades_OXA_Upgrade_Attachment_Dual_description": "سكة تثبيت تسمح باستخدام ملحقات الليزر والمقابض الأمامية"
+  "sid_upgrades_OXA_Upgrade_Attachment_Dual_description": "سكة تثبيت تسمح باستخدام ملحقات الليزر والمقابض الأمامية",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripLaser_name": "سكة التثبيت المزدوجة",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripLaser_description": "نظام تركيب متعدد الاستخدامات. يسمح تصميمه ثنائي القضبان بالتركيب المتزامن لكل من مرفقات الليزر والمقبض الأمامي.",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripUGL_name": "سكة تثبيت المقبض/قضبان التثبيت",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripUGL_description": "سكة تثبيت إضافية تقع أسفل واقي اليد. تسمح باستخدام مقابض أمامية أو ملحقات أسفل الماسورة.",
+  "sid_items_SOFMOD_Silen_name": "كاتم الصوت SOFMOD",
+  "sid_items_SOFMOD_Silen_description": "كاتم صوت عالي الجودة مصمم لتقليل ضوضاء السلاح ووميض الفوهة، مما يجعله مثاليًا لعمليات التخفي. يعمل نظام الحاجز المتطور الخاص به على إخماد الصوت بفعالية دون التأثير بشكل كبير على سرعة الرصاصة.",
+  "sid_items_M701_Colim_Scope_name": "منظار موازٍ",
+  "sid_items_M701_Colim_Scope_description": "صُمم هذا المنظار الموازي الحديث والمدمج لسهولة التصويب، وهو مصمم لسهولة التصويب، وهو مصمم ليتم تركيبه على سكة حديدية مناسبة."
 }

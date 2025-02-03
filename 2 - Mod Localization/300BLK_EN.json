@@ -1,0 +1,12 @@
+{
+  "__LANG": "EN",
+  "sid_items_A300BD_name": ".300 Blackout",
+  "sid_items_A300BD_description": "Developed in the early twenty-first century, this compact rifle round was engineered to excel in suppressed, short-barreled setups offering remarkable versatility for tactical use, personal defense, and hunting applications.",
+  "sid_items_A300BA_name": ".300 Blackout AP",
+  "sid_items_A300BA_description": "A .300 Blackout (7.62x35mm) AP cartridge loaded with an 8.4-gram armor-piercing bullet from a 7.62x51mm NATO M80A1 cartridge, composed of a steel penetrator tip and copper semi-jacket.",
+  "sid_items_A300BS_name": ".300 Blackout SS",
+  "sid_items_A300BS_description": "A .300 Blackout (7.62x35mm) supersonic cartridge loaded with a 9.5 gram full-metal-jacket (FMJ) bullet, featuring a lead core fully encased in a copper jacket and seated in a standard brass case. This round is engineered to achieve muzzle velocities above the speed of sound.",
+  "sid_items_A300BE_name": ".300 Blackout HP",
+  "sid_items_A300BE_description": "A .300 Blackout (7.62x35mm) Expanding (HP) cartridge loaded with an 8.0 gram hollow-point bullet, featuring a lead core fully encased in a copper jacket and engineered with a precision-formed cavity at the tip. This round is designed to rapidly expand upon impact, delivering increased tissue damage and enhanced stopping power for hunting, self-defense, and tactical scenarios.", 
+  "sid_misc_item_tooltip_ammo_caliber_A300B": ".300 BLK"
+}

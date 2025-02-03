@@ -1,6 +1,5 @@
 {
   "__LANG": "CS",
-  "__MODINFO_OXA": "1.8",
   "sid_items_IronsightEnabler_name": "Železná mířidla",
   "sid_items_IronsightEnabler_description": "Vypne boční lištu, čímž umožní nerušené používání železných mířidel zbraně.",
   "sid_items_MagpulIronsightEnabler_name": "Železná mířidla Magpul",
@@ -92,5 +91,13 @@
   "sid_upgrades_OXA_Upgrade_Attachment_Laser_name": "Montážní lišta pro laser",
   "sid_upgrades_OXA_Upgrade_Attachment_Laser_description": "Montážní lišta, která umožňuje použití laserových nástavců.",
   "sid_upgrades_OXA_Upgrade_Attachment_Dual_name": "Dvojitá montážní lišta",
-  "sid_upgrades_OXA_Upgrade_Attachment_Dual_description": "Montážní lišta, která umožňuje použití laserových nástavců a nástavců pro předpažbí."
+  "sid_upgrades_OXA_Upgrade_Attachment_Dual_description": "Montážní lišta, která umožňuje použití laserových nástavců a nástavců pro předpažbí.",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripLaser_name": "Dvojitá montážní lišta",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripLaser_description": "Všestranný systém upevnění. Jeho konstrukce se dvěma lištami umožňuje současnou montáž laseru i předpažbí.",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripUGL_name": "Montážní lišta Grip/UGL",
+  "sid_upgrades_OXA_Upgrade_Attachment_GripUGL_description": "Pomocná montážní lišta umístěná pod rukojetí. Umožňuje použití předpažbí nebo nástavců pod hlavní.",
+  "sid_items_SOFMOD_Silen_name": "SOFMOD Suppressor",
+  "sid_items_SOFMOD_Silen_description": "Vysoce kvalitní tlumič navržený tak, aby snižoval hluk zbraně a záblesk výstřelu, takže je ideální pro skryté operace. Jeho pokročilý systém přepážek účinně tlumí zvuk, aniž by výrazně ovlivňoval rychlost střely.",
+  "sid_items_M701_Colim_Scope_name": "Kolimátorový zaměřovač",
+  "sid_items_M701_Colim_Scope_description": "Tento kompaktní a moderní kolimátorový zaměřovač je navržen pro snadné míření a je určen k montáži na příslušnou lištu."
 }

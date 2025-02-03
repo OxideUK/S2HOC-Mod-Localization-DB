@@ -1,24 +1,19 @@
 {
   "__LANG": "EN",
-
-  "__ARTIFACTS_REFORGED": "1.12",
-
-
-
-  "sid_items_Grizzly_name": "Grizzly Detector",
-  "sid_items_Grizzly_description": "An outdated first-generation artifact detector with subpar usability. Compared to the Echo, it features a more user-friendly radar display.",
-  "sid_items_Valeria_name": "Valeria Detector",
-  "sid_items_Valeria_description": "A second-generation detector in the advanced tier, designed to supersede the Bear. This detector is favored by seasoned stalkers for its impressive range to detect artifacts. Thanks to its all-new electronic components and antenna, it can detect artifacts at even greater range than its predecessor Hilka.",
+  "sid_items_Grizzly_name": "Grizzly™ Detector",
+  "sid_items_Grizzly_description": "DETECTOR\nGeneration: 1st\n\nAn outdated first-generation artifact detector with subpar usability, though when compared to the Echo™, it features a more user-friendly radar display and upgraded electronic components. Often used by rookie stalkers for its general usability.",
+  "sid_items_Valeria_name": "Valeria™ Detector",
+  "sid_items_Valeria_description": "DETECTOR\nGeneration: 2nd\n\nAn advanced second-generation detector, designed to supersede the Bear™. This device is favored by seasoned stalkers for its impressive artifact detection range, thanks to its all-new electronic components and antenna. It can detect artifacts at an even greater range than its predecessor, Hilka™."
   "sid_effects_ArtifactProtectionPsiRadiation4_name": "Psi-Radiation protection",
   "sid_upgrades_ArmUpg_container_radconsume_011_name": "Graphene Container",
   "sid_upgrades_ArmUpg_container_radconsume_011_description": "A scientific breakthrough employing a psi-field system to contain the radiation and psi emitted by artifacts.",
   "sid_effects_general_maxHealth_name": "Max health",
   "sid_items_custom_CArtifactWoundspike_name": "Woundspike",
   "sid_items_custom_CArtifactWoundspike_description": "A rare unusual artifact found in chemical anomalies.\n\nIt appears as a jagged, spherical cluster of dark, thorn-like protrusions radiating faint pulses of light. Those who carry it describe a strange sensation of vitality surging through their bodies as injuries accumulate—an unnatural strength born from suffering. Yet, as the wounds deepen, the artifact seems to anchor its bearer to the ground under the weight of their excruciating pain. Rumors among stalkers speak of those who have pushed themselves to the brink with Woundspike, achieving feats of terrifying ferocity at the expense of their humanity. Its true connection to pain remains a mystery, leaving many to question whether it is a gift or a curse.",
-  "sid_items_custom_CArtifactFrozenPoppy_name": "Frozen Poppy",
-  "sid_items_custom_CArtifactFrozenPoppy_description": "A rare artifact found in gravitational anomalies.\n\nIts frosted petals are warm to the touch, and even in extreme heat, it doesn’t melt. However, its core can still cause frostbite if handled carelessly.",
-  "sid_items_custom_CArtifactEyeOfTerror_name": "Eye of Terror",
-  "sid_items_custom_CArtifactEyeOfTerror_description": "A Legendary artifact found in vah-ghatn’ol in-amogrys...--A#H.\n\nIts obsidian surface seems to absorb the surrounding light. The Eye pulses between vibrant hues of violet and crimson, as if it peers into the very fabric of existence. Anyone who gazes into the Eye will be shown visions of their deepest fears and forgotten memories, lingering long after the artifact is out of sight. Only those with unwavering courage can safely wield its power. Those who falter will lose themselves to madness.",
+  "sid_items_CArtifactFrozenPoppy_name": "Frozen Poppy",
+  "sid_items_CArtifactFrozenPoppy_description": "ARTIFACT\nOrigin: Gravitational\nRarity: Rare\n\nA delicately beautiful creation. Its frosted petals are warm to the touch; however, its inner core can still cause frostbite if handled carelessly. ",
+  "sid_items_CArtifactEyeOfTerror_name": "Eye of Terror",
+  "sid_items_CArtifactEyeOfTerror_description": "ARTIFACT\nOrigin: Unknown\nRarity: Legendary\n\nIts obsidian surface seems to absorb the surrounding light. The eye pulses between vibrant hues of violet and crimson, as if it peers into the very fabric of existence. Anyone who gazes into it will be shown visions of their deepest fears and forgotten memories, lingering long after the artifact is out of sight. Only those with unwavering courage can safely wield its power. Those who falter will lose themselves to madness."
   "sid_items_custom_EArtifactFlash_name": "Flash",
   "sid_items_custom_EArtifactFlash_description": "An uncommon artifact found in electro anomalies.\n\nWhen the Flash is pulverized into powder, each particle continues to generate electrical discharges.",
   "sid_items_custom_EArtifactSoul_name": "Soul",
